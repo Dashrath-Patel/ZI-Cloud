@@ -203,7 +203,7 @@ const OsloChat = () => {
                 </div>
 
                 {/* Suggestion Button */}
-                <div className="flex justify-start my-6">
+                <div className="flex justify-end my-6">
                   <button className="bg-white border-2 border-[#F9B233] text-gray-700 px-6 py-3 rounded-xl shadow-sm hover:bg-[#FFF8E7] transition-all duration-200 hover:shadow-md">
                     Create leads on Tech targets
                   </button>
